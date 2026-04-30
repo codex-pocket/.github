@@ -4,7 +4,7 @@
 
 # CodexPocket
 
-Mac 上で動く Codex を、iPhone からそのまま扱うための companion です。  
+Mac 上で動く Codex を、iPhone からそのまま扱うためのリモコンです。  
 CodexPocket is an iPhone companion for the Codex environment running on your Mac.
 
 Today the public surface is intentionally small and focused:
